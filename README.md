@@ -104,7 +104,7 @@ We used several machine learning models to classify and prioritize ZIP codes for
 
 ## Data Access
 
-- **Dataset:** [Google Drive Link](https://drive.google.com/drive/folders/1CJEAGCCDFk8ogF8PZIXIZQrcuu-YDeLC?usp=sharing)
+- **Dataset:** [Google Drive Link](https://drive.google.com/drive/folders/1cU3GjIVZwW5VBjZ2XxLVi8irJq4y69iz?usp=sharing)
 
 ---
 
